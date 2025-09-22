@@ -50,7 +50,7 @@ This repository contains the implementation and analysis for predicting monthly 
 
 ---
 
-## Environment & Dependencies
+## Environment
 - Python 3.9+  
 - Jupyter Notebook  
 - Libraries:  
@@ -58,7 +58,3 @@ This repository contains the implementation and analysis for predicting monthly 
   - `scikit-learn`  
   - `xgboost`  
   - `matplotlib`, `seaborn`  
-
-Install dependencies with:  
-```bash
-pip install -r requirements.txt
